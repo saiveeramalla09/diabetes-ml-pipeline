@@ -2,7 +2,7 @@
 
 # Diabetes Prediction — ML Pipeline
 
-# Author : Sai Veeramalla
+# Author : Rohith Veeramalla
 
 ## Overview
 Binary classification to predict diabetes
