@@ -2,8 +2,6 @@
 
 # Diabetes Prediction — ML Pipeline
 
-# Author : Rohith Veeramalla
-
 ## Overview
 Binary classification to predict diabetes
 using Pima Indians dataset (768 patients)
